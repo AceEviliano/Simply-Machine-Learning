@@ -4,7 +4,7 @@ This is a repository that contains selected Machine Learing topics, with detaile
 
 ---
 
-## Tpoics 
+## Topics 
 
  1. __Linear Regression__
     - [Notes](https://github.com/AceEviliano/Simply-Machine-Learning/blob/main/Linear%20Regression/Notes.ipynb)
